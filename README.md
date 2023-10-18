@@ -57,6 +57,9 @@ You can click the Preview link to take a look at your changes.
  -->
 <!--  -->
 
+### Mobile Development
+
+![Flutter](https://img.shields.io/badge/Flutter-092E20?style=flat&logo=flutter&logoColor=white)&nbsp;
 
 #### Database
 
