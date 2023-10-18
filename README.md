@@ -79,6 +79,13 @@ You can click the Preview link to take a look at your changes.
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626.svg?&style=flat&logo=Jupyter&logoColor=white)&nbsp;
 ![Conda](https://img.shields.io/badge/conda-342B029.svg?&style=flat&logo=anaconda&logoColor=white)&nbsp;
 ![PyCharm](https://img.shields.io/badge/PyCharm-000000.svg?&style=flate&logo=PyCharm&logoColor=white)&nbsp;
+
+#### Cloud Infrastructures
+
+![Firebase](https://img.shields.io/badge/firebase-%23ED7A00.svg?style=flat&logo=firebase&logoColor=white)&nbsp;
+![AWS](https://img.shields.io/badge/Amazon_AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white)&nbsp;
+
+
 </td>
     <td>
   ## 📄📜 Stats
