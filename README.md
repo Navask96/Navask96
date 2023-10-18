@@ -83,6 +83,7 @@ You can click the Preview link to take a look at your changes.
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626.svg?&style=flat&logo=Jupyter&logoColor=white)&nbsp;
 ![Conda](https://img.shields.io/badge/conda-342B029.svg?&style=flat&logo=anaconda&logoColor=white)&nbsp;
 ![PyCharm](https://img.shields.io/badge/PyCharm-000000.svg?&style=flate&logo=PyCharm&logoColor=white)&nbsp;
+![Android Studio](https://img.shields.io/badge/AndroidStudio-20232A?style=flat&logo=androidstudio&logoColor=61DAFB)&nbsp;
 
 #### Cloud Infrastructures
 
